@@ -27,6 +27,8 @@ Model层主要就是数据的获取，可以说对应上图的 Repository，仓�
 
 就拿热门 Tab 来举例这一流程是怎么跑通的好了。
 
+![看不到就是挂了⚡️](https://github.com/WGwangguan/GankPee/blob/master/app/src/main/java/screenshot/hot.png)
+
 # Api 接口
 ```
     /**
